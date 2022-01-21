@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Dori from Hungary, 29 Female 
 - 👀 I’m interested in fivem scrits, and automatized programming tools (like MS Power Automate..etc)
 - 📫 You can reach me in email: nanasi.dori@gmail.com
+- I'm trying to study the lua deeply
